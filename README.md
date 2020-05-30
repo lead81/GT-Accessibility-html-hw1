@@ -17,7 +17,7 @@ Homework assignment to get students use to semantics in HTML
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
-* [License] (#license)
+* [License](#license)
 
 ## Installation
 
